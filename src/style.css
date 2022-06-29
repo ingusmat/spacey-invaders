@@ -1,0 +1,22 @@
+body {
+  background-color: #222222;
+  margin: 0;
+}
+
+img.cabinetSticker {
+  width: 900px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#app {
+  width: 900px;
+  background: #111111;
+  height: 900px;
+  padding: 290px 195px;
+  box-sizing: border-box;
+}
+
+canvas {
+}

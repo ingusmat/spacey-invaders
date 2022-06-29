@@ -1,0 +1,234 @@
+{ "frames": {
+   "space-invaders-annotated 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 1.aseprite": {
+    "frame": { "x": 110, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 2.aseprite": {
+    "frame": { "x": 220, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 3.aseprite": {
+    "frame": { "x": 330, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 4.aseprite": {
+    "frame": { "x": 440, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 5.aseprite": {
+    "frame": { "x": 550, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 6.aseprite": {
+    "frame": { "x": 660, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 7.aseprite": {
+    "frame": { "x": 770, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 8.aseprite": {
+    "frame": { "x": 880, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 9.aseprite": {
+    "frame": { "x": 990, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 10.aseprite": {
+    "frame": { "x": 1100, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 11.aseprite": {
+    "frame": { "x": 1210, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 12.aseprite": {
+    "frame": { "x": 1320, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 13.aseprite": {
+    "frame": { "x": 1430, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 14.aseprite": {
+    "frame": { "x": 1540, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 15.aseprite": {
+    "frame": { "x": 1650, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 16.aseprite": {
+    "frame": { "x": 1760, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 17.aseprite": {
+    "frame": { "x": 1870, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 18.aseprite": {
+    "frame": { "x": 1980, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 19.aseprite": {
+    "frame": { "x": 2090, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 20.aseprite": {
+    "frame": { "x": 2200, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 21.aseprite": {
+    "frame": { "x": 2310, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 22.aseprite": {
+    "frame": { "x": 2420, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 23.aseprite": {
+    "frame": { "x": 2530, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 24.aseprite": {
+    "frame": { "x": 2640, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 25.aseprite": {
+    "frame": { "x": 2750, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   },
+   "space-invaders-annotated 26.aseprite": {
+    "frame": { "x": 2860, "y": 0, "w": 110, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 120 },
+    "sourceSize": { "w": 110, "h": 120 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25",
+  "image": "space-invaders-annotated.png",
+  "format": "RGBA8888",
+  "size": { "w": 2970, "h": 120 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
